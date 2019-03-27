@@ -1,5 +1,5 @@
 # Telegram Bot w/GoogleAppEngine
-Telegram Bot starter kit, using Telegram API to customise it and Google App Engine to host it. This repo is forked from @yukuku, and discussed on Reddit: https://goo.gl/GsxpqB.
+Telegram Bot starter kit, using Telegram API to customise it and Google App Engine to host it. This repo is forked from [yukuku](https://github.com/yukuku/telebot), and discussed on Reddit: https://goo.gl/GsxpqB.
 
 Instructions
 ============
