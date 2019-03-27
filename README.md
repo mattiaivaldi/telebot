@@ -63,7 +63,7 @@ Instructions
 19. Open `main.py` file using a good text editor. Change the `YOUR_BOT_TOKEN_HERE` to the token you get from @botfather at step 6, and save the file.
 
    ![main.py](http://i.imgur.com/oNFEdsp.png)
-
+They
 20. Download Google App Engine SDK for Python from https://cloud.google.com/appengine/downloads and install it.
 
 21. Run the GoogleAppEngineLauncher application.
@@ -88,5 +88,5 @@ Instructions
 
 30. You can, for example, send `what time` to the bot and the bot will reply you. Try sending `/image` as well. Mission completed!
 
-To customize the bot, edit the `main.py` starting from the `CUSTOMIZE FROM HERE` line. They are simple if-else statements. 
+To customize the bot, edit the `main.py` starting from the `CUSTOMIZE FROM HERE` line. The commented lines will help you. 
 
