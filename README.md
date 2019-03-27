@@ -1,7 +1,5 @@
-# telebot
-Telegram Bot starter kit. Very easy to install with Google App Engine.
-
-Reddit post: http://www.reddit.com/r/Telegram/comments/3b1pwl/create_your_own_telegram_bot_stepbystep/
+# Telegram Bot w/GoogleAppEngine
+Telegram Bot starter kit, using Telegram API to customise it and Google App Engine to host it. This repo is forked from @yukuku, and discussed on http://www.reddit.com/r/Telegram/comments/3b1pwl/create_your_own_telegram_bot_stepbystep/.
 
 Instructions
 ============
